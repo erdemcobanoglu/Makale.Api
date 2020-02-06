@@ -23,5 +23,5 @@ yazabilir misiniz?
 
 
 	örnek kullanımlar
-	=> https://localhost:44371/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/articles
-	=> https://localhost:44371/api/authors
+	-https://localhost:44371/api/authors/25320c5e-f58a-4b1f-b63a-8ee07a840bdf/articles
+	-https://localhost:44371/api/authors
