@@ -18,8 +18,7 @@ yazabilir misiniz?
 3) Daha geniş vaktiniz olsaydı projeye neler eklemek isterdiniz?
 	- Detaylı bir loglama ve Cache'leme mekanizması üzerinde dururdum.
 
-4) Eklemek istediğiniz bir yorumunuz var mı? 
-	- mülakattan önce proje gönderen firmalar candır :)
+4) Eklemek istediğiniz bir yorumunuz var mı?  
 
 
 
